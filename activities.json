@@ -1,13 +1,10 @@
-{
-    "activities":
-        [
-            {"activity":"Educational", "description": "Educational is good", "isDynamic":false},
-            {"activity":"Social", "description":"Social ... i don't know", "isDynamic":false},
-            {"activity":"Diy", "description": "Diy! Oh no, i'm busy", "isDynamic":false},
-            {"activity":"Charity", "description":"Charity. I'm poor", "isDynamic":false},
-            {"activity":"Cooking", "description":"Cooking. You cook for me", "isDynamic":false},
-            {"activity":"Relaxation", "description":"Relaxation. I need it.", "isDynamic":false},
-            {"activity":"Music", "description":"Music. Every single day", "isDynamic":false},
-            {"activity":"Busywork", "description":"Busywork. My job already does that.", "isDynamic":false}
-        ]
-}
+[
+    {"activity":"Educational", "description": "Educational is good", "isDynamic":false},
+    {"activity":"Social", "description":"Social ... i don't know", "isDynamic":false},
+    {"activity":"Diy", "description": "Diy! Oh no, i'm busy", "isDynamic":false},
+    {"activity":"Charity", "description":"Charity. I'm poor", "isDynamic":false},
+    {"activity":"Cooking", "description":"Cooking. You cook for me", "isDynamic":false},
+    {"activity":"Relaxation", "description":"Relaxation. I need it.", "isDynamic":false},
+    {"activity":"Music", "description":"Music. Every single day", "isDynamic":false},
+    {"activity":"Busywork", "description":"Busywork. My job already does that.", "isDynamic":false}
+]
