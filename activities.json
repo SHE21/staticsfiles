@@ -1,10 +1,10 @@
 [
-    {"activity":"Educational", "description": "Educational is good", "isDynamic":false},
-    {"activity":"Social", "description":"Social ... i don't know", "isDynamic":false},
-    {"activity":"Diy", "description": "Diy! Oh no, i'm busy", "isDynamic":false},
-    {"activity":"Charity", "description":"Charity. I'm poor", "isDynamic":false},
-    {"activity":"Cooking", "description":"Cooking. You cook for me", "isDynamic":false},
-    {"activity":"Relaxation", "description":"Relaxation. I need it.", "isDynamic":false},
-    {"activity":"Music", "description":"Music. Every single day", "isDynamic":false},
-    {"activity":"Busywork", "description":"Busywork. My job already does that.", "isDynamic":false}
+    {"activity":"Educational", "description": "Educational is good","price":0.5, "isRandomic":false},
+    {"activity":"Social", "description":"Social ... i don't know", "price":0.6, "isRandomic":false},
+    {"activity":"Diy", "description": "Diy! Oh no, i'm busy", "price":0.2, "isRandomic":false},
+    {"activity":"Charity", "description":"Charity. I'm poor", "price":0.2, "isRandomic":false},
+    {"activity":"Cooking", "description":"Cooking. You cook for me", "price":0.7, "isRandomic":false},
+    {"activity":"Relaxation", "description":"Relaxation. I need it.", "price":0.4, "isRandomic":false},
+    {"activity":"Music", "description":"Music. Every single day", "price":0.1, "isRandomic":false},
+    {"activity":"Busywork", "description":"Busywork. My job already does that.", "price":0.5, "isRandomic":false}
 ]
